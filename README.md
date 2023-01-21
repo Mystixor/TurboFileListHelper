@@ -7,4 +7,6 @@ If the Ghost you are searching for is not one of the 200 official campaign maps 
 # Usage
 To find the right ghost corresponding to a map you can run `FindGhosts.bat` (bundled in releases) and follow the instructions, or use the command line alternative `TurboFileListHelper.exe --find "FileList.Gbx" MAPNAME` or, if you have `FileList.Gbx` in the same folder as the application, just use `TurboFileListHelper.exe --find MAPNAME`.
 
+Always keep in mind the first maps are internally named 001 or 087, and not 1 or 87.
+
 You can see the usage of this tool also by running `TurboFileListHelper.exe --help`.
